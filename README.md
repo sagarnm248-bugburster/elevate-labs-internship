@@ -5,7 +5,7 @@ This repository contains all my daily tasks and projects completed during the El
 ## 📂 Structure
 
 - Day-1 → Data Cleaning and Preprocessing
-- More tasks will be added daily
+- More tasks will be added daily ...
 
 ## 🧠 Skills Gained
 - Data Cleaning
