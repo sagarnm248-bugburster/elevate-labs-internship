@@ -1,17 +1,26 @@
-# 🚀 Elevate Labs Internship
+# 🚀 Elevate Labs Data Analyst Internship
 
-This repository contains all my daily tasks and projects completed during the Elevate Labs Data Analyst Internship.
+This repository contains all tasks and projects completed during my Elevate Labs Internship.
 
-## 📂 Structure
+## 📂 Task Structure
 
-- Day-1 → Data Cleaning and Preprocessing
-- More tasks will be added daily ...
+- Day-1 → Data Cleaning and Preprocessing (Netflix Dataset)
 
-## 🧠 Skills Gained
-- Data Cleaning
+## 🧠 Skills Learned
+- Data Cleaning & Preprocessing
 - Python (Pandas)
-- Data Preprocessing
+- Handling Missing Values & Duplicates
+- Data Formatting and Transformation
 - GitHub Project Management
+
+## 📊 Tools Used
+- Python
+- Pandas
+- Google Colab
+- GitHub
 
 ## 📅 Duration
 30 Days Internship + 15 Days Evaluation
+
+---
+⭐ This repository will be updated daily with new tasks and projects.
