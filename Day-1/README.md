@@ -28,3 +28,7 @@ Netflix Movies and TV Shows Dataset
 ## 📂 Files Included
 - cleaned_netflix_data.csv
 - day1_data_cleaning.ipynb
+
+## 📈 Results
+- Successfully reduced dataset size by removing null and duplicate values
+- Improved data quality and consistency
