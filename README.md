@@ -2,25 +2,49 @@
 
 This repository contains all tasks and projects completed during my Elevate Labs Internship.
 
+---
+
 ## 📂 Task Structure
 
-- Day-1 → Data Cleaning and Preprocessing (Netflix Dataset)
+* **Day-1** → Data Cleaning and Preprocessing (Netflix Dataset)
+* **Day-2** → Data Visualization and Storytelling (Superstore Dashboard - Power BI)
+
+---
 
 ## 🧠 Skills Learned
-- Data Cleaning & Preprocessing
-- Python (Pandas)
-- Handling Missing Values & Duplicates
-- Data Formatting and Transformation
-- GitHub Project Management
+
+* Data Cleaning & Preprocessing
+* Data Visualization & Storytelling
+* Python (Pandas)
+* Power BI Dashboard Creation
+* Handling Missing Values & Duplicates
+* Data Transformation
+* GitHub Project Management
+
+---
 
 ## 📊 Tools Used
-- Python
-- Pandas
-- Google Colab
-- GitHub
+
+* Python
+* Pandas
+* Google Colab
+* Power BI
+* GitHub
+
+---
 
 ## 📅 Duration
+
 30 Days Internship + 15 Days Evaluation
 
 ---
-⭐ This repository will be updated daily with new tasks and projects.
+
+## 📈 Progress
+
+* ✅ Task 1 Completed
+* ✅ Task 2 Completed
+* 🔄 More tasks coming...
+
+---
+
+⭐ This repository will be updated regularly with new tasks and projects.
