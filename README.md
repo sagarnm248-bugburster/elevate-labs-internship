@@ -35,7 +35,12 @@ This repository contains all tasks and projects completed during my Elevate Labs
 
 ## 📅 Duration
 
-30 Days Internship + 15 Days Evaluation
+45 Days Internship:
+
+* **First 15 Days** → Task Phase (Fundamentals & Daily Tasks)
+* **Next 15 Days** → Project Phase (Real-world Projects)
+* **Final 15 Days** → Evaluation Period
+
 
 ---
 
