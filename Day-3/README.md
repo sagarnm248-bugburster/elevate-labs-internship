@@ -21,7 +21,8 @@ To analyze data using SQL queries.
 
 ## 📊 Output
 
-![SQL Output](output.png)
+
+<img width="600" height="300" alt="output" src="https://github.com/user-attachments/assets/18b6e534-6b50-4373-b3d9-c12906735e88" />
 
 
 ## 📌 Outcome
