@@ -1,6 +1,6 @@
 # 🚀 Elevate Labs Data Analyst Internship
 
-This repository contains all tasks and projects completed during my Elevate Labs Internship.
+This repository contains all tasks and projects completed during my Elevate Labs Data Analyst Internship.
 
 ---
 
@@ -8,6 +8,7 @@ This repository contains all tasks and projects completed during my Elevate Labs
 
 * **Day-1** → Data Cleaning and Preprocessing (Netflix Dataset)
 * **Day-2** → Data Visualization and Storytelling (Superstore Dashboard - Power BI)
+* **Day-3** → SQL for Data Analysis (Superstore Dataset)
 
 ---
 
@@ -15,8 +16,10 @@ This repository contains all tasks and projects completed during my Elevate Labs
 
 * Data Cleaning & Preprocessing
 * Data Visualization & Storytelling
+* SQL for Data Analysis
 * Python (Pandas)
 * Power BI Dashboard Creation
+* Writing SQL Queries (JOIN, GROUP BY, Subqueries, Views)
 * Handling Missing Values & Duplicates
 * Data Transformation
 * GitHub Project Management
@@ -29,6 +32,7 @@ This repository contains all tasks and projects completed during my Elevate Labs
 * Pandas
 * Google Colab
 * Power BI
+* MySQL
 * GitHub
 
 ---
@@ -41,14 +45,22 @@ This repository contains all tasks and projects completed during my Elevate Labs
 * **Next 15 Days** → Project Phase (Real-world Projects)
 * **Final 15 Days** → Evaluation Period
 
-
 ---
 
 ## 📈 Progress
 
 * ✅ Task 1 Completed
 * ✅ Task 2 Completed
+* ✅ Task 3 Completed
 * 🔄 More tasks coming...
+
+---
+
+## 📌 Highlights
+
+* Built interactive Power BI dashboard for sales analysis  
+* Performed SQL-based data analysis using real dataset  
+* Applied aggregation, subqueries, and optimization techniques  
 
 ---
 
