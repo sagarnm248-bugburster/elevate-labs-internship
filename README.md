@@ -13,6 +13,17 @@ This repository contains all tasks and projects completed during my **Elevate La
 
 ---
 
+## 📁 Repository Structure
+
+Each task is organized in separate folders:
+
+- 📂 Day-1 → Data Cleaning (Netflix Dataset)
+- 📂 Day-2 → Power BI Dashboard (Superstore)
+- 📂 Day-3 → SQL Analysis (Superstore)
+- 📂 Day-4 → Interactive Dashboard + PPT
+
+---
+
 ## 🧠 Skills Learned
 
 * Data Cleaning & Preprocessing
