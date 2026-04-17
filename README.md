@@ -1,6 +1,6 @@
 # 🚀 Elevate Labs Data Analyst Internship
 
-This repository contains all tasks and projects completed during my **Elevate Labs Data Analyst Internship**, showcasing hands-on experience in data cleaning, SQL analysis, and dashboard design.
+This repository contains all tasks and projects completed during my **Elevate Labs Data Analyst Internship**, showcasing hands-on experience in data cleaning, SQL analysis, dashboard design, and exploratory data analysis.
 
 ---
 
@@ -10,6 +10,7 @@ This repository contains all tasks and projects completed during my **Elevate La
 * **Day-2** → Data Visualization & Storytelling (Superstore Dashboard - Power BI)
 * **Day-3** → SQL for Data Analysis (Superstore Dataset)
 * **Day-4** → Dashboard Design (Interactive Business Dashboard - Power BI)
+* **Day-5** → Exploratory Data Analysis (Titanic Dataset - Python)
 
 ---
 
@@ -17,10 +18,11 @@ This repository contains all tasks and projects completed during my **Elevate La
 
 Each task is organized in separate folders:
 
-- 📂 Day-1 → Data Cleaning (Netflix Dataset)
-- 📂 Day-2 → Power BI Dashboard (Superstore)
-- 📂 Day-3 → SQL Analysis (Superstore)
-- 📂 Day-4 → Interactive Dashboard + PPT
+* 📂 Day-1 → Data Cleaning (Netflix Dataset)
+* 📂 Day-2 → Power BI Dashboard (Superstore)
+* 📂 Day-3 → SQL Analysis (Superstore)
+* 📂 Day-4 → Interactive Dashboard + PPT
+* 📂 Day-5 → EDA Notebook + Report
 
 ---
 
@@ -30,7 +32,8 @@ Each task is organized in separate folders:
 * Data Visualization & Storytelling
 * SQL for Data Analysis
 * Dashboard Design & Business Insights
-* Python (Pandas)
+* Exploratory Data Analysis (EDA)
+* Python (Pandas, Matplotlib, Seaborn)
 * Power BI Dashboard Creation
 * Writing SQL Queries (JOIN, GROUP BY, Subqueries, Views)
 * Handling Missing Values & Duplicates
@@ -41,10 +44,10 @@ Each task is organized in separate folders:
 
 ## 📊 Tools Used
 
-* 🐍 Python (Pandas)
+* 🐍 Python (Pandas, Matplotlib, Seaborn)
 * 🗄 MySQL
 * 📊 Power BI
-* 💻 Google Colab
+* 💻 Google Colab / Jupyter Notebook
 * 🌐 GitHub
 
 ---
@@ -65,6 +68,7 @@ Each task is organized in separate folders:
 * ✅ Day-2 Completed
 * ✅ Day-3 Completed
 * ✅ Day-4 Completed
+* ✅ Day-5 Completed
 * 🔄 More tasks coming...
 
 ---
@@ -74,7 +78,7 @@ Each task is organized in separate folders:
 * 📊 Built interactive Power BI dashboards for business insights
 * 🗄 Performed SQL-based data analysis on real-world datasets
 * 📈 Designed KPI-driven dashboards with filters and time-series analysis
-* 🧠 Generated actionable insights for decision-making
+* 🧠 Conducted EDA to uncover patterns, trends, and relationships
 * ⚙️ Applied aggregation, subqueries, and optimization techniques
 
 ---
