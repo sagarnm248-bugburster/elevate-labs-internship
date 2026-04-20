@@ -11,6 +11,7 @@ This repository contains all tasks and projects completed during my **Elevate La
 * **Day-3** → SQL for Data Analysis (Superstore Dataset)
 * **Day-4** → Dashboard Design (Interactive Business Dashboard - Power BI)
 * **Day-5** → Exploratory Data Analysis (Titanic Dataset - Python)
+* **Day-6** → Sales Trend Analysis Using SQL Aggregations
 
 ---
 
@@ -23,6 +24,7 @@ Each task is organized in separate folders:
 * 📂 Day-3 → SQL Analysis (Superstore)
 * 📂 Day-4 → Interactive Dashboard + PPT
 * 📂 Day-5 → EDA Notebook + Report
+* 📂 Day-6 → SQL Script + Output (Sales Trends)
 
 ---
 
@@ -69,6 +71,7 @@ Each task is organized in separate folders:
 * ✅ Day-3 Completed
 * ✅ Day-4 Completed
 * ✅ Day-5 Completed
+* ✅ Day-6 Completed
 * 🔄 More tasks coming...
 
 ---
