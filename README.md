@@ -28,7 +28,7 @@ Each task is organized in separate folders:
 
 ---
 
-📊 This repository demonstrates end-to-end data analysis:
+📊 This repository demonstrates end-to-end data analysis:"\n"
 From data cleaning → SQL analysis → dashboard creation → insights generation.
 
 ---
