@@ -28,6 +28,11 @@ Each task is organized in separate folders:
 
 ---
 
+📊 This repository demonstrates end-to-end data analysis:
+From data cleaning → SQL analysis → dashboard creation → insights generation.
+
+---
+
 ## 🧠 Skills Learned
 
 * Data Cleaning & Preprocessing
